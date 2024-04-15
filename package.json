@@ -1,0 +1,22 @@
+{
+  "name": "note-cli",
+  "version": "1.0.0",
+  "description": "A basic cli for notes",
+  "main": "index.js",
+  "bin": {
+    "note": "./index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/georgesimos/note-cli.git"
+  },
+  "author": "georgesimos",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/georgesimos/note-cli/issues"
+  },
+  "homepage": "https://github.com/georgesimos/note-cli#readme"
+}
