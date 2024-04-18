@@ -21,6 +21,7 @@
   },
   "homepage": "https://github.com/georgesimos/note-cli#readme",
   "dependencies": {
+    "open": "^10.1.0",
     "yargs": "^17.7.2"
   },
   "devDependencies": {
